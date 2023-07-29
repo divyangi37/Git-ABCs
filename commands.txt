@@ -2,3 +2,6 @@ git init
 git --help
 git clone
 git commit -v
+git pull origin main
+git fetch 
+git push
