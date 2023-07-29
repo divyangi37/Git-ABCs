@@ -1,3 +1,4 @@
 git init
 git --help
-  
+git clone
+git commit -v
